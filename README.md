@@ -1,0 +1,3 @@
+Lab0_ECE372a
+============
+This is a readme for all the Projects from ECE 372a. First started with Lab0, then of course to Lab1,2,3...
